@@ -110,12 +110,14 @@ section{
 .contact_top{
     padding: 50px 100px;
     width: 100%;
-    padding-right: 150px;
+    margin-left: 200px;
 }
 
 .contact_bottom{
     background: #ff3b49;
     padding: 80px 100px 50px;
+    width: 100%;
+    margin-left: 200px;
 }
 
 .contact_top .get_in_touch,
