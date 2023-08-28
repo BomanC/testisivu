@@ -98,6 +98,15 @@ body{
     margin-bottom: 20px;
 }
 
+section{
+    width: 900px;
+    max-width: 100%;
+    background: #fff;
+    margin: 35px auto;
+    box-shadow: 0 0 3px rgba(0,0,0,0.3);
+    position: relative;
+}
+
 .contact_top{
     padding: 50px 100px;
     width: 100%;
