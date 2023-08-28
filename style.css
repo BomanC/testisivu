@@ -124,12 +124,14 @@ section{
 .contact_top .address{
     width: 50%;
     margin-right: 30px;
+    margin-left: 200px;
 }
 
 .contact_top .get_in_touch,
 .contact_top .info,
 .contact_bottom .about{
     margin-bottom: 30px;
+    margin-left: 200px;
 }
 
 h2,
